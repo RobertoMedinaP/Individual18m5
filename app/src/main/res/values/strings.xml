@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Individual18m5</string>
+    <string name="convertir">Convertir a:</string>
+    <string name="convbt">Convertir</string>
+    <string name="reset">Reset</string>
+    <string name="pista">Ingrese un número</string>
+    <string name="conversor">Conversor de divisas</string>
+</resources>
